@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Preview.png" alt="PGClockPRO Preview" width="900">
+  <img src="Preview.jpg" alt="PGClockPRO Preview" width="900">
 
   <h1>PGClockPRO</h1>
 
